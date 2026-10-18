@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+
+# temp extraction of the original assignment zips
+extracted/
+
+# original assignment attachments (already unpacked into data/ and report/)
+exemplo.zip
+proj1.zip
+questao1_fotos.zip
+
+# packaged delivery zip (redundant with tracked files)
+Trabalho1_221020889.zip
